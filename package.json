@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Grandmaster Chess Clock — a PWA chess clock with installable, full-screen experience (Blue & Maze Yellow theme).",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
