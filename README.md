@@ -2,6 +2,7 @@
 
 Professional chess clock web app — Progressive Web App (PWA) with install support.
 
+- Deployed via Vercel. URL: chessclockvercel.vercel.app
 - Theme colors used in assets and icons: Blue and Maze Yellow.
 
 ## Features
