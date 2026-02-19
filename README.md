@@ -1,4 +1,4 @@
-# Grandmaster Chess Clock
+# Chess Clock
 
 Professional chess clock web app — Progressive Web App (PWA) with install support.
 

@@ -14,9 +14,9 @@ export default defineConfig(({ mode }) => {
         injectRegister: 'auto',
         includeAssets: ['icons/*.png', 'icons/*.svg'],
         manifest: {
-          name: 'Grandmaster Chess Clock',
-          short_name: 'GM Clock',
-          description: 'Professional Chess Clock — install on your home screen.',
+          name: 'Chess Clock',
+          short_name: 'Chess Clock',
+          description: 'Professional Chess Clock - install on your home screen.',
           start_url: '/',
           scope: '/',
           display: 'standalone',
@@ -24,7 +24,7 @@ export default defineConfig(({ mode }) => {
           orientation: 'portrait',
           theme_color: '#000000',
           background_color: '#000000',
-          id: 'grandmaster-chess-clock',
+          id: 'chess-clock',
           icons: [
             { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
             { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
